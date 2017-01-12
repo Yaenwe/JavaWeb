@@ -1,0 +1,11 @@
+
+var xhr = new XMLHttpRequest();
+
+xhr.ontimeout = 
+xhr.onprogress = 
+xhr.onreadystatechange  = 
+xhr.onload = 
+xhr.onerror = function () {console.log("j'ai été invoqué explicitement"};
+
+xhr.open(method, url, true);
+xhr.send();
