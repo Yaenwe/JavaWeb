@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Liste_Des_Contacts>
+<Contact nom="Prost" prenom="Alain" >   
+    <Tel>0472689960</Tel>
+	<Email>a.prost@free.fr</Email>
+</Contact>
+
+<Contact nom="Senna" prenom="Ayrton" >   
+    <Tel>0472689969</Tel>
+	<Email>a.senna@paradis.fr</Email>
+</Contact>
+
+<Contact nom="Schumacher" prenom="Michael" >   
+    <Tel>0472689969</Tel>
+	<Email>m.schumacher@orange.de</Email>
+</Contact>
+
+</Liste_Des_Contacts>
+
